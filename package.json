@@ -1,6 +1,6 @@
 {
   "name": "config-consul",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sync config from consul",
   "main": "index.js",
   "scripts": {},
