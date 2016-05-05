@@ -1,9 +1,14 @@
 {
   "name": "config-consul",
   "version": "1.0.0",
-  "description": "",
+  "description": "sync config from consul",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gongzili456/config-consul.git"
+  },
+  "keywords": ["config", "consul"],
   "author": "LiuGuili <gongzili456@gmail.com> (http://geeekr.com)",
   "license": "ISC",
   "dependencies": {
